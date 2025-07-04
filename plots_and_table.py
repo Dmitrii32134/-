@@ -14,4 +14,5 @@ from setting import CURRENT_DIR
 # Установка шрифтов
 import matplotlib.font_manager as font_manager
 
-    font_files = font_manager.findSystemFonts(fontpaths=None, fontext='ttf') #ggggggggggggggggggggggggggggbbbbbbbbnnm,.././/sdfkhgfhgkhdsgkhdsfjkghdfgjhdfh
+    font_files = font_manager.findSystemFonts(fontpaths=None, fontext='ttf') #ggggggggggggggggggggggggggggbbbbbbbbnnm,.././/sdfkhgfhgkhdsgkhdsfjkghd
+
